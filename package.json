@@ -32,7 +32,7 @@
   "scripts": {
     "build:dev": "NODE_ENV=development npx tsx src/bundler",
     "build": "npx tsx src/bundler",
-    "patch": "npx patch-package @sqlite.org/sqlite-wasm --exclude='nothing'",
+    "patch": "npx patch-package @duckdb/duckdb-wasm --exclude='nothing'",
     "postinstall": "patch-package",
     "prepublishOnly": "npm run build",
     "pretest:deno": "npm run build:dev",
