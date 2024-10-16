@@ -45,7 +45,7 @@
     "dist"
   ],
   "devDependencies": {
-    "@duckdb/duckdb-wasm": "^1.29.0",
+    "@duckdb/duckdb-wasm": "1.29.0",
     "@sqlite.org/sqlite-wasm": "3.46.1-build3",
     "@tsconfig/node20": "20.1.4",
     "@types/fs-extra": "11.0.4",
