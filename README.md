@@ -10,4 +10,4 @@ npm install bunny-duckdb
 
 ## Documentation
 
-Please read the [docs](https://bunny-launcher.net/bunny-databases/duckdb/) for usage and examples.
+Please read the [docs](https://bunny-launcher.net/databases/duckdb/) for usage and examples.

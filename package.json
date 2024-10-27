@@ -1,6 +1,6 @@
 {
   "name": "bunny-duckdb",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": false,
   "type": "module",
   "description": "DuckDB for Edge Scripting for bunny.net 🐰",
@@ -20,7 +20,7 @@
     "duckdb",
     "wasm"
   ],
-  "homepage": "https://bunny-launcher.net/bunny-databases/duckdb/",
+  "homepage": "https://bunny-launcher.net/databases/duckdb/",
   "bugs": "https://github.com/jlarmstrongiv/bunny-duckdb/issues",
   "repository": {
     "type": "git",
